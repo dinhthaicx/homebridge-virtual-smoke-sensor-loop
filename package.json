@@ -1,0 +1,28 @@
+{
+  "name": "homebridge-virtual-smoke-sensor-loop",
+  "version": "1.0.0",
+  "description": "Virtual smoke sensor with controllable alarm loop every 5 seconds. Designed for HomeKit via Homebridge.",
+  "main": "index.js",
+  "author": "AIglobal",
+  "license": "MIT",
+  "keywords": [
+    "homebridge-plugin",
+    "smoke",
+    "sensor",
+    "virtual",
+    "homebridge",
+    "homekit"
+  ],
+  "engines": {
+    "homebridge": ">=1.0.0",
+    "node": ">=14.17.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aiglobal-dev/homebridge-virtual-smoke-sensor-loop.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aiglobal-dev/homebridge-virtual-smoke-sensor-loop/issues"
+  },
+  "homepage": "https://github.com/aiglobal-dev/homebridge-virtual-smoke-sensor-loop#readme"
+}

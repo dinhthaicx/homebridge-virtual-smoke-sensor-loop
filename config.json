@@ -1,0 +1,8 @@
+{
+  "platform": "VirtualSmokeSensor",
+  "sensors": [
+    {
+      "name": "Báo cháy AIglobal"
+    }
+  ]
+}
